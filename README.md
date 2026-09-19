@@ -1,1 +1,1 @@
-# aiml-seminar
+# aiml-github
